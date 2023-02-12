@@ -17,6 +17,6 @@ Projetos e ideias desenvolvidos durante a aula de Computação Gráfica
 - https://github.com/EliasFilhoXD/ComputacaoGrafica/tree/main/AlgBreseham
 - Desc: Algoritmo de Breseham, baseado em cálculos matemáticos e análise da formação da linha para contrução da mesma. Observação que o próximo ponto da linha só pode se encontrar em 3 estados, correção do problema de buracos dependendo da ângulação que outras linhas tinham.
 
-# Projeto 05
+• Projeto 05
 - https://github.com/EliasFilhoXD/ComputacaoGrafica/tree/main/AlgLinesAll
 - Desc: Algoritmo com a junção dos três algoritmos de contrução de linhas (Alg analitico, Alg DDA e Alg de Breseham)
